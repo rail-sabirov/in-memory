@@ -12,7 +12,7 @@ package main
 
 import (
   "fmt"
-  "github.com/rail-sabirov/im-memory"
+  cache "github.com/rail-sabirov/im-memory"
   )
 
 func main() {
